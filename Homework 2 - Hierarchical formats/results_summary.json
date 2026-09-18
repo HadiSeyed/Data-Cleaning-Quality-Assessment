@@ -1,0 +1,73 @@
+{
+  "county_count": 3221,
+  "occupied_raw_min": 0.000729610643082849,
+  "occupied_raw_max": 1.226710315030206,
+  "occupied_clipped_count": 5,
+  "multigeometry_count": 79,
+  "restaurant_count": 44,
+  "review_rows": 5000,
+  "missing_ratings": 50,
+  "inconsistent_double_slash_rating_keys": 26,
+  "q1": [
+    {
+      "name": "City City Restaurant",
+      "review_count": 156
+    }
+  ],
+  "q2_count": 33,
+  "q2": [
+    "Big Big Restaurant",
+    "Big Delight Restaurant",
+    "Big Sweet Inc.",
+    "Big Sweet Take-Out",
+    "Big Tasty Take-Out",
+    "City Big Restaurant",
+    "City City Restaurant",
+    "City Kitchen Inc.",
+    "City Salty Inc.",
+    "City Salty Take-Out",
+    "City Tasty Restaurant",
+    "Delight Big Restaurant",
+    "Delight Goat Inc.",
+    "Delight Salty Restaurant",
+    "Fish City Restaurant",
+    "Fish Delight Restaurant",
+    "Goat Big Take-Out",
+    "Goat Salty Take-Out",
+    "Goat Sweet Inc.",
+    "Kitchen Tasty Inc.",
+    "Salty Big Take-Out",
+    "Salty Delight Take-Out",
+    "Salty Fish Take-Out",
+    "Salty Kitchen Restaurant",
+    "Salty Salty Restaurant",
+    "Sweet City Restaurant",
+    "Sweet Delight Take-Out",
+    "Sweet Kitchen Restaurant",
+    "Sweet Salty Take-Out",
+    "Tasty Delight Inc.",
+    "Tasty Goat Restaurant",
+    "Tasty Salty Restaurant",
+    "Tasty Sweet Inc."
+  ],
+  "q3": [
+    {
+      "cuisine": "Italian",
+      "mean_rating": 5.584183673469388
+    }
+  ],
+  "ec_q1": [
+    {
+      "restaurant_id": 8,
+      "restaurant": "City City Restaurant",
+      "review_count": 156
+    }
+  ],
+  "ec_q2_count": 33,
+  "ec_q3": [
+    {
+      "cuisine": "Italian",
+      "mean_rating": 5.584183673469388
+    }
+  ]
+}
